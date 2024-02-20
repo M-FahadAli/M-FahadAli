@@ -1,4 +1,4 @@
-<h1>Hi, I'm Fahad! <br/><a href="https://github.com/M-FahadAli"> <a href="www.linkedin.com/in/fahad-muhammad-778256282/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Fahad!</h1>
   
 
 
