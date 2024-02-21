@@ -16,7 +16,7 @@
 - <b>Active Directory Home Lab</b>
 
   - [Active Directory]()
-  - 
+
 - <b>Nessus Essential Vulnerability Management Project</b>
 
   - [Nessus Essential Vulnerability Management]()
