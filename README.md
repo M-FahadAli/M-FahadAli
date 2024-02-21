@@ -18,7 +18,5 @@
   - [Active Directory](https://github.com/M-FahadAli/Active-Directory-Project)
 
 - <b>Nessus Essential Vulnerability Management Project</b>
-
-  - [Nessus Essential Vulnerability Management]()
-
+  - [Nessus Essential Vulnerability Management](https://github.com/M-FahadAli/VulnerabilityManagement-NessusEssentials)
 
