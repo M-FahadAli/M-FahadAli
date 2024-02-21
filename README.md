@@ -14,8 +14,7 @@
   - [Microsoft Azure: SIEM & SOAR](https://github.com/M-FahadAli/MicrosoftAzureSentinental-SIEM-)
   
 - <b>Active Directory Home Lab</b>
-
-  - [Active Directory]()
+- [Active Directory]()
 
 - <b>Nessus Essential Vulnerability Management Project</b>
 
