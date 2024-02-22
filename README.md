@@ -21,4 +21,4 @@
   - [Nessus Essential Vulnerability Management](https://github.com/M-FahadAli/VulnerabilityManagement-NessusEssentials)
 
 - <b>Ethical Penetration Testing</b>
-  - 
+  - [Ethical-Penetration-Testing-Project](https://github.com/M-FahadAli/Ethical-Penetration-Testing-Project)
