@@ -10,7 +10,7 @@
 - [Certified Information Systems Security Professional (CISSP) - Pursuing]()
   
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-- <b>Microsoft Azure: SIEM & SOAR HoneyPot Project</b>
+ <b>Microsoft Azure: SIEM & SOAR HoneyPot Project</b>
   
   - [Microsoft Azure: SIEM & SOAR](https://github.com/M-FahadAli/MicrosoftAzureSentinental-SIEM-)
   
