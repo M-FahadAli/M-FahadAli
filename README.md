@@ -11,7 +11,8 @@
 - [Certified Information Systems Security Professional (CISSP) - Pursuing]()
   
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-
+- <b>Networking</b>
+  - [Networking](https://github.com/M-FahadAli/Networking)
 - <b>Ethical Penetration Testing</b>
   - [Ethical-Penetration-Testing-Project](https://github.com/M-FahadAli/Ethical-Penetration-Testing-Project)
  
